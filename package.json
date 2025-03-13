@@ -25,6 +25,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "postcss": "^8.5.3",
+    "prettier": "^3.5.3",
     "typescript": "^5"
   }
 }
